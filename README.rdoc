@@ -1,3 +1,13 @@
+# Task # 1
+
+https://github.com/sparklemotion/mechanize/issues/566
+Remember your job is to make *incremental* progress, break the task into smaller tasks, or finish something in 15 minutes, then pass it along to the next contributor. 
+No responsibility, only fun.
+
+If you don't finish, add your next task to the readme.md. When you're done make a pull request to the repo
+
+Email with questions
+
 = Mechanize {<img src="https://secure.travis-ci.org/sparklemotion/mechanize.svg?rvm=2.3.3" />}[http://travis-ci.org/sparklemotion/mechanize]
 
 * http://docs.seattlerb.org/mechanize
