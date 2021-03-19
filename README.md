@@ -41,13 +41,17 @@ If you are just starting, check out the [GUIDE](http://docs.seattlerb.org/mechan
 
 Use bundler to install dependencies:
 
-  bundle install
+```
+bundle install
+```
 
 Run all tests with:
 
-  rake test
+```
+rake test
+```
 
-You can also use +autotest+ from the ZenTest gem to run tests.
+You can also use `autotest` from the ZenTest gem to run tests.
 
 See also Mechanize::TestCase to read about the built-in testing infrastructure.
 
