@@ -1,3 +1,8 @@
+- [x] convert it from RDoc to Markdown
+- [x] remove the travis badge
+- [ ] update the dependencies section to match #565 and #563. (Note: Requries review)
+- [x] docs.seattlerb.org is not up-to-date. let's start pointing people somewhere they'll be updated.
+
 # Task # 1
 
 https://github.com/sparklemotion/mechanize/issues/566
